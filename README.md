@@ -1,4 +1,4 @@
-### Hi there, I am Sunisha. Welcome to my GitHub Portfolio! 😀
+## Hi there, I am Sunisha. Welcome to my GitHub Portfolio! 😀
 
 🎓 Soon to be grad with a Bachelor's of Science in Computer Science and Data Analytics (graduating May 2023)
 
