@@ -4,17 +4,17 @@
 
 🌟 Ambitious and driven individual with a passion for technology and a thirst for knowledge
 
-🔍 Currently seeking new opporunities in Software Engineering, Data Analytics and other related fields
+🔍 Currently seeking new opportunities in Software Engineering, Data Analytics, and other related fields
 
-📍 Originally from India, currently studying at the University of St. Thomas, St. Paul, MN (willing to relocate within the US for work) 
+📍 Originally from India, currently studying at the University of St. Thomas, St. Paul, MN (willing to relocate within the US for work)
 
-📚 Working as a Web Development Intern for the University of St. Thomas where I have built 30+ websites (internal and external) honing skills in UI development, UX analysis, front-end developement, and data analysis
+📚 Working as a Web Development Intern for the University of St. Thomas where I have built 30+ websites (internal and external) honing skills in UI development, UX analysis, front-end development, and data analysis
 
-💻 Worked as a Software Engineering Intern last summer at National Information Solutions Cooperative where I designed, implemented, tested, and maintened NISC’s Financial Application Programs gaining skills in back-end developemnt, code review and optimization, debugging and troubleshooting, and agile methodologies
+💻 Worked as a Software Engineering Intern last summer at National Information Solutions Cooperative where I designed, implemented, tested, and maintained NISC’s Financial Application Programs gaining skills in back-end development, code review, and optimization, debugging and troubleshooting, and agile methodologies
 
 ✍️ In my free time, you can find me writing (I am a published author!), cooking, or watching movies
 
-✉️ Let's connect! Email me at [aror9153@stthomas.edu](mailto:aror9153@stthomas.edu) or message me on [LinkedIn](https://www.linkedin.com/in/sunishaarora/)
+✉️ Want to connect? Email me at [aror9153@stthomas.edu](mailto:aror9153@stthomas.edu) or message me on [LinkedIn](https://www.linkedin.com/in/sunishaarora/)!
 
 ## 🧰 Languages and Tools
 
