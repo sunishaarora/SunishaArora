@@ -4,7 +4,7 @@
 
 🌟 Ambitious and driven individual with a passion for technology and a thirst for knowledge
 
-🔍 Currently seeking new opportunities in Software Engineering, Data Analytics, and other related fields
+🔍 Upcoming Technology Consultant at [Perficient, Inc.](https://www.perficient.com/what-we-do) in Minneapolis
 
 📍 Originally from India, currently studying at the University of St. Thomas, St. Paul, MN (willing to relocate within the US for work)
 
